@@ -56,7 +56,7 @@ require('maxCharWarning');
 ```
 
 
-### 4. Create the HTML markup
+### 3. Create the HTML markup
 
 ```html
     <input 
@@ -70,7 +70,7 @@ require('maxCharWarning');
     <span class="name"></span><!-- Display warning message here -->
 ```
 
-### 5. Initialize the plugin
+### 4. Initialize the plugin
 
 Default initialization
 
