@@ -1,8 +1,9 @@
 
 
 
-Get a warning when the maximum char limit has been exceeded with a simple jQuery plugin
+Maximum Characters limit exceeded warning
 ========================================
+Get a warning when the maximum char limit has been exceeded with a simple jQuery plugin
 
 * Only 1 js file
 * < 1Kb minified (495 bytes)
