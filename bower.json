@@ -1,0 +1,32 @@
+{
+  "name": "max-char-limit-warning",
+  "version": "1.0.0",
+  "homepage": "https://github.com/joanclaret/max-char-limit-warning",
+  "authors": [
+    "Joan Claret <dpam23@gmail.com>"
+  ],
+  "description": "Get a warning when the maximum char limit has been exceeded with a simple jQuery plugin",
+  "main": "jquery.maxcharwarning.min.js",
+  "dependencies": {
+    "jquery": ">=1.4.0"
+  },
+  "keywords": [
+    "characters",
+    "limit",
+    "warning",
+    "form",
+    "input",
+    "jQuery",
+    "plugin",
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

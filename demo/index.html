@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>jcSlider: A responsive slider jQuery plugin with CSS animations from animate.css</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+        <!-- DEMO CSS stylesheet -->
+        <link rel="stylesheet" href="css/styles.css">
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Oswald">
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato">
+
+        <!-- jQuery file-->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+        <!-- Max char warning main javascript file -->
+        <script src="js/jquery.maxcharwarning.js"></script>
+        
+    </head>
+    <body>
+        <div class="container">
+            <h1>Get a warning when the maximum char limit has been exceeded with a simple jQuery plugin</h1>
+            <h2>Configurable max length and warning message using data atributes</h2> 
+
+            <ul>
+              <li>
+                <input 
+                       class ="js-max-char-warning" 
+                       data-max-length-warning="limit exceeded" 
+                       data-max-length="10" 
+                       data-max-length-warning-container="name"
+                       placeholder="Your name" 
+                       type="text" 
+                /> 
+                <span class="name"></span>
+                <pre>data-max-length-warning="<strong>limit exceeded</strong>"<br />data-max-length="<strong>10</strong>"</pre>
+              </li>
+              <li>
+                <input 
+                       class ="js-max-char-warning" 
+                       data-max-length-warning="Max 15 characters" 
+                       data-max-length="15" 
+                       data-max-length-warning-container="address"
+                       placeholder="Your name" 
+                       type="text" 
+                /> 
+                <span class="address"></span>   
+                <pre>data-max-length-warning="<strong>Max 15 characters</strong>"<br />data-max-length="<strong>15</strong>"</pre>  
+              </li>
+            </ul>  
+
+
+            <footer>
+              <p>Discover more things at: <br />
+               <a title="Joan Claret: Front-end developer" href="http://joanclaret.github.io/" target="_blank">
+                 http://joanclaret.github.io/ 
+              </a></p>
+            </footer>
+        </div>
+
+        <script type="text/javascript">
+        $(document).ready(function(){
+            $('.js-max-char-warning').maxCharWarning();
+        });
+        </script>
+
+    </body>
+</html>
