@@ -1,5 +1,5 @@
 
-![Plugin preview](http://joanclaret.github.io/jcSlider/host/max-char-limit-warning.png)
+![Plugin preview](http://joanclaret.github.io/host/max-char-limit-warning.png)
 
 Maximum Characters limit exceeded warning
 ========================================
