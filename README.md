@@ -5,12 +5,12 @@ Maximum Characters limit exceeded warning
 ========================================
 Get a warning when the maximum char limit has been exceeded with a simple jQuery plugin
 
-[![Join the chat at https://gitter.im/JoanClaret/max-char-limit-warning](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JoanClaret/max-char-limit-warning?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 * Only 1 js file
 * < 1Kb minified (495 bytes)
 * Easy to implement
 * Works with inputs, textareas.
+
+[![Join the chat at https://gitter.im/JoanClaret/max-char-limit-warning](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JoanClaret/max-char-limit-warning?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Online demo
 -----------
