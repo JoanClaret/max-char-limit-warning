@@ -3,6 +3,8 @@
 
 Maximum Characters limit exceeded warning
 ========================================
+
+[![Join the chat at https://gitter.im/JoanClaret/max-char-limit-warning](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JoanClaret/max-char-limit-warning?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Get a warning when the maximum char limit has been exceeded with a simple jQuery plugin
 
 * Only 1 js file
