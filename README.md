@@ -26,13 +26,13 @@ Installation
 Using bower
 
 ```bash
-bower install max-char-limit-warning --save -dev
+bower install max-char-limit-warning --save-dev
 ```
 
 Using npm
 
 ```bash
-npm install max-char-limit-warning --save -dev
+npm install max-char-limit-warning --save-dev
 ```
 
 or [download the plugin](https://github.com/JoanClaret/max-char-limit-warning/archive/master.zip) from GitHub

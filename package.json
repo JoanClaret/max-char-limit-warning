@@ -1,6 +1,6 @@
 {
   "name": "max-char-limit-warning",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get a warning when the maximum char limit has been exceeded with a simple jQuery plugin",
   "main": "jquery.maxcharwarning.min.js",
   "repository": {
