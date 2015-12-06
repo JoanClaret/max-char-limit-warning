@@ -9,7 +9,8 @@ Get a warning when the maximum char limit has been exceeded with a simple jQuery
 * < 1Kb minified (495 bytes)
 * Easy to implement
 * Works with inputs, textareas.
-[![npm version](https://badge.fury.io/js/max-char-limit-warning@2x.png)](https://badge.fury.io/js/max-char-limit-warning) [![Join the chat at https://gitter.im/JoanClaret/max-char-limit-warning](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JoanClaret/max-char-limit-warning?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![npm version](https://badge.fury.io/js/max-char-limit-warning.png)](https://badge.fury.io/js/max-char-limit-warning) [![Join the chat at https://gitter.im/JoanClaret/max-char-limit-warning](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JoanClaret/max-char-limit-warning?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Online demo
 -----------
